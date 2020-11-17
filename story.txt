@@ -1,7 +1,8 @@
-Mech dinosaur 
-Mech T-Rex
-Dinosaur egg has been stolen by evil pterodactyl
-Must get the egg back going through 3 levels
-Must fight off 3 of the pterodactyl's children, green, red and blue
-Get egg back, having another mech t-rex
-Yay
+Mech Dinosaur 
+
+Mech T-Rex:
+Dinosaur egg has been stolen by evil pterodactyl.
+Must get the egg back going through 3 levels.
+Must fight off 3 of the pterodactyl's children, green, red and blue.
+Get egg back, having another mech t-rex.
+Yay!
