@@ -1,1 +1,14 @@
 
+Main Mechanics:
+- Dino Run
+- Dino Bite
+- Dino Jump
+
+Dino Run:
+Allows dino to run through the scene.
+
+Dino Bite:
+Dino can bite enemies and interact with objects in the game world. 
+
+Dino Jump:
+Super powered jump allows dino to jump over objects and reach new platforms. 
